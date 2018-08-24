@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2003
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ValidationPracticeManzor", "ValidationPracticeManzor\ValidationPracticeManzor.csproj", "{250B7B73-5ABF-4BE2-9FE4-CC36B9C617CE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{250B7B73-5ABF-4BE2-9FE4-CC36B9C617CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{250B7B73-5ABF-4BE2-9FE4-CC36B9C617CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{250B7B73-5ABF-4BE2-9FE4-CC36B9C617CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{250B7B73-5ABF-4BE2-9FE4-CC36B9C617CE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {58134071-CF2F-481B-B5A3-AD72EABA7BBC}
+	EndGlobalSection
+EndGlobal
